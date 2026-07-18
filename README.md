@@ -40,4 +40,4 @@ Projects are local prototypes unless explicitly stated otherwise. Synthetic data
 - [Evidence and source repository](https://github.com/josiahsutd-stack/ai-portfolio)
 - [GitHub](https://github.com/josiahsutd-stack)
 - [LinkedIn](https://www.linkedin.com/in/josiah-lau-8041822b6/)
-- Email is available in application materials.
+- [Email](mailto:josiahsutd@gmail.com)
